@@ -9,18 +9,6 @@ Bitcoin Fear & Greed Index → Tracks market sentiment as Extreme Fear, Fear, Ne
 
 The objective is to identify how trading strategies, profitability, leverage usage, and trading volume align or diverge from prevailing market sentiment to help traders make smarter decisions.
 
- Folder Structure
-ds_shreya/
-├── notebook_1.ipynb        # Main Google Colab notebook with code & analysis
-├── csv_files/              # Datasets used in the project
-│   ├── trader_data.csv
-│   ├── fear_greed_index.csv
-├── outputs/                # Graphs & visualizations
-│   ├── volume_vs_sentiment.png
-│   ├── sentiment_over_time.png
-│   ├── profitability_vs_sentiment.png
-├── ds_report.pdf           # Final report summarizing insights
-└── README.md               # Project documentation
 
  Important Links
 📓 Google Colab Notebook
@@ -84,4 +72,4 @@ Export the final PDF report via Colab: File → Print → Save as PDF.
 Author
 
 Name: Shreya Gilda
-Submission Date: 20 Aug 202
+Submission Date: 20 Aug 2025
